@@ -1,0 +1,19 @@
+current directory: /mnt/d/person/atsushi/workspace/asana/make_sample_website/vendor/bundle/ruby/2.5.0/gems/byebug-10.0.2/ext/byebug
+/home/yuitoku/.rbenv/versions/2.5.0/bin/ruby -r ./siteconf20180524-24725-f1tk28.rb extconf.rb
+creating Makefile
+
+current directory: /mnt/d/person/atsushi/workspace/asana/make_sample_website/vendor/bundle/ruby/2.5.0/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /mnt/d/person/atsushi/workspace/asana/make_sample_website/vendor/bundle/ruby/2.5.0/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.so
+
+current directory: /mnt/d/person/atsushi/workspace/asana/make_sample_website/vendor/bundle/ruby/2.5.0/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.so ./.gem.20180524-24725-nea7z8/byebug
